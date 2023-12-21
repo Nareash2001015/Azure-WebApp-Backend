@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-@CrossOrigin(origins = "https://proud-glacier-0b3ed670f.4.azurestaticapps.net/")
+@CrossOrigin(origins = "https://proud-glacier-0b3ed670f.4.azurestaticapps.net")
 @RestController
 public class UserRestController {
 
