@@ -1,0 +1,7 @@
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/rest/UserRestController.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/security/SecurityConfig.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/DemoBackendApplication.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/LoadDatabase.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/entity/User.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/repository/UserRepository.java
+/home/nareash/Desktop/Azure_WebApp/backend/src/main/java/com/example/Demo/security/WebSecurity.java
